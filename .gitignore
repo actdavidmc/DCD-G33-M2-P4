@@ -5,11 +5,12 @@ __pycache__/
 
 # Data (NO subir)
 data/raw/
-data/**/*.csv
-data/**/*.csv.gz
-data/**/*.parquet
+data/*.csv
+data/*.csv.gz
+data/*.parquet
 data/neighbourhoods.geojson
 *.zip
+source/*.ipynb
 
 # Envs
 .venv/
