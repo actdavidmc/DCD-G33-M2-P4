@@ -1,0 +1,1 @@
+[{"model":"RandomForest","accuracy":0.7723801443,"f1_macro":0.7725648571},{"model":"GradientBoosting","accuracy":0.7259227832,"f1_macro":0.7262583552},{"model":"LogisticRegression","accuracy":0.6996181587,"f1_macro":0.699977825},{"model":"KNN","accuracy":0.6843445057,"f1_macro":0.683486049}]
