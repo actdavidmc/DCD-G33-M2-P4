@@ -12,6 +12,10 @@ data/neighbourhoods.geojson
 *.zip
 source/*.ipynb
 unificación/
+CDD_G33_M2_P4_Equipo_5_v2.ipynb
+CDD_G33_M2_P4_Equipo_5_v3.ipynb
+CDD_G33_M2_P4_Equipo_5_v1.ipynb
+
 
 # Envs
 .venv/
